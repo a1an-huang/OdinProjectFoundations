@@ -1,18 +1,20 @@
 # Odin Project Foundations
 
-<<<<<<< HEAD
 **Projects** for the Foundation path @ Odin Project  
 Author: **Alan Huang**  
 Started Date: **May 04, 2022**  
 Completed Date: Present  
 Source: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
-=======
-**Activity & Project** for the Foundation path @ Odin Project  
-Author: **Alan Huang**  
-Started Date: May 04, 2022  
-Completed Date:  
-Source: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)  
->>>>>>> d891465f82ed854b7b923fb80b495e89828f4d32
+
+**Table of Contents**
+
+1. [ HTML Foundations ](#html)
+2. [ Flexbox ](#flex)
+3. [ JavaScript Basics](#jsBasic)
+4. [ Resources Used](#resources)
+5. [ License ](#license)
+
+<a name="html"></a>
 
 ## HTML Foundations
 
@@ -20,11 +22,15 @@ Project: **Recipes**
 
 Relfection:
 
+<a name="flex"></a>
+
 ## Flexbox
 
 Project: **Landing Page**
 
 Relfection:
+
+<a name="jsBasic"></a>
 
 ## JavaScript Basics
 
@@ -40,7 +46,11 @@ Project: **Calculator**
 
 Relfection:
 
+<a name="resources"></a>
+
 ## Resources Used
+
+<a name="license"></a>
 
 ## License
 
