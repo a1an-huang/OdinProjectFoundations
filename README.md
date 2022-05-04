@@ -1,10 +1,18 @@
 # Odin Project Foundations
 
+<<<<<<< HEAD
 **Projects** for the Foundation path @ Odin Project  
 Author: **Alan Huang**  
 Started Date: **May 04, 2022**  
 Completed Date: Present  
 Source: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+=======
+**Activity & Project** for the Foundation path @ Odin Project  
+Author: **Alan Huang**  
+Started Date: May 04, 2022  
+Completed Date:  
+Source: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)  
+>>>>>>> d891465f82ed854b7b923fb80b495e89828f4d32
 
 ## HTML Foundations
 
