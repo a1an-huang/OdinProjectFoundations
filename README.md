@@ -2,8 +2,8 @@
 
 **Projects** for the Foundation path @ Odin Project  
 Author: **Alan Huang**  
-Started Date: May 04, 2022  
-Completed Date:  
+Started Date: **May 04, 2022**  
+Completed Date: Present  
 Source: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)  
 
 ## HTML Foundations
