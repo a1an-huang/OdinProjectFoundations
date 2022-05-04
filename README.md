@@ -1,20 +1,18 @@
-# **Table of Contents**
-
-- [**Table of Contents**](#table-of-contents)
-  - [Odin Project Foundations](#odin-project-foundations)
-  - [HTML Foundations](#html-foundations)
-  - [Flexbox](#flexbox)
-  - [JavaScript Basics](#javascript-basics)
-  - [Resources Used](#resources-used)
-  - [License](#license)
-
-## Odin Project Foundations
+# Odin Project Foundations
 
 **Projects** for the Foundation path @ Odin Project  
 Author: **Alan Huang**  
 Started Date: **May 04, 2022**  
 Completed Date: Present  
 Source: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
+# **Table of Contents**
+
+  - [HTML Foundations](#html-foundations)
+  - [Flexbox](#flexbox)
+  - [JavaScript Basics](#javascript-basics)
+  - [Resources Used](#resources-used)
+  - [License](#license)
 
 ## HTML Foundations
 
