@@ -6,7 +6,7 @@ Started Date: **May 04, 2022**
 Completed Date: Present  
 Source: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-**Table of Contents**
+## **Table of Contents**
 
 1. [ HTML Foundations ](#html)
 2. [ Flexbox ](#flex)
