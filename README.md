@@ -1,4 +1,4 @@
-# Odin Project Foundations
+# The Odin Project
 
 **Projects** for the Foundation path @ Odin Project  
 Author: **Alan Huang**  
@@ -9,14 +9,19 @@ Source: [The Odin Project Foundations](https://www.theodinproject.com/paths/foun
 # **Table of Contents**
 
   - [HTML Foundations](#html-foundations)
+    - [Project: Recipes](#project-recipes)
   - [Flexbox](#flexbox)
+    - [Project: Landing Page](#project-landing-page)
   - [JavaScript Basics](#javascript-basics)
+    - [Project: Rock Paper Scissor](#project-rock-paper-scissors)
+    - [Project: Etch-A-Sketch](#project-etch-a-sketch)
+    - [Project: Calculator](#project-calculator)
   - [Resources Used](#resources-used)
   - [License](#license)
 
 ## HTML Foundations
 
-### Project: **Recipes**
+## Project: Recipes
 
 ### Iteration 1: Initial Structure
 
