@@ -49,6 +49,8 @@ Finally, under the ingredients list, add a “Steps” heading followed by an or
 Add two more recipes with identical page structures to the recipe page you’ve already created.
 Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
 
+![](https://user-images.githubusercontent.com/98438095/166872071-35cd56cc-f484-4b3d-938f-00d3edc65c76.gif)
+
 Relfection:
 
 ## Flexbox
