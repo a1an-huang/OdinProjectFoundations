@@ -9,22 +9,28 @@ ul {
     margin: 0;
     padding: 0;
 }
+li{
+    margin: .5vw;
+}
+li:hover{
+    opacity: 90%;
+    color:#6abfc3;
+}
 a {
     color: inherit;
     text-decoration: none;
 }
 
-/*--- Head ---*/
-#heading{
-    text-align: center;
-}
+/*--- Main Logo ---*/
 #mainlogo{
     width: 20%;
     height: auto;
-    background-image: url("logo.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+}
+#heading{
+    text-align: center;
 }
 
 /*--- The Odin Project Foundations ---*/

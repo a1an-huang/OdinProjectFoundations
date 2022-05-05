@@ -5,29 +5,41 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Odin Recipes</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <!-- header and anchor with relative links to recipes -->
-    <h1>Odin Recipes</h1>
-    <ul>
-      <li>
-        <a href="recipes/shrimppasta.html" alt="Shrimp Pasta Bake Recipe"
-          >Garlic Shrimp Pasta Bake</a
-        >
-      </li>
-      <li>
-        <a href="recipes/honeycarrots.html" alt="Honey Carrots Recipe"
-          >Honey Carrots</a
-        >
-      </li>
-      <li>
-        <a href="recipes/jollofrice.html" alt="Jollof Rice Recipe"
-          >Jollof Rice</a
-        >
-      </li>
-      <li>
-        <a href="../../index.html" alt="Home Page">Home</a>
-      </li>
-    </ul>
+    <h1 id="heading">
+      <img
+        src="../../images/odinproj.png"
+        id="mainlogo"
+        alt="Odin Project Logo"
+      />
+    </h1>
+    <div id="recipemenu">
+      <h2 id="recipehead">Odin Recipes</h2>
+      <ul>
+        <li class="recipes">
+          <a href="recipes/honeycarrots.html" alt="Honey Carrots Recipe"
+            >Honey Carrots</a
+          >
+        </li>
+        <li class="recipes">
+          <a href="recipes/shrimppasta.html" alt="Shrimp Pasta Bake Recipe"
+            >Garlic Shrimp Pasta Bake</a
+          >
+        </li>
+        <li class="recipes">
+          <a href="recipes/jollofrice.html" alt="Jollof Rice Recipe"
+            >Jollof Rice</a
+          >
+        </li>
+        <li class="recipes">
+          <div class="homec">
+            <a href="../../index.html" alt="Home Page" class="home">Home</a>
+          </div>
+        </li>
+      </ul>
+    </div>
   </body>
 </html>

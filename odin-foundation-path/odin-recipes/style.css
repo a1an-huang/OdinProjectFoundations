@@ -1,0 +1,102 @@
+/*--- By Alan Huang ---*/
+
+body {
+    background-color:#121212;
+    color:white;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+ol{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+li{
+    margin: 1vw;
+}
+li:hover{
+    opacity: 90%;
+    color:#6abfc3;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/*--- Main Logo ---*/
+#mainlogo{
+    width: 20%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#heading{
+    text-align: center;
+}
+
+/*--- Recipes Menu ---*/
+#recipehead{
+    color: goldenrod;
+    text-align: center;
+}
+#recipemenu{
+    text-align: center;
+    font-size:1.25vw;
+}
+.recipes:hover{
+    text-decoration: underline;
+}
+
+/*--- Recipes CSS ---*/
+.recipetitle{
+    color: goldenrod;
+    text-align: center;
+}
+.subtitles{
+    color:#6abfc3;
+    text-align: center;
+}
+.desctext{
+    text-align: center;
+}
+.desctext:hover{
+    color:#6abfc3;
+}
+
+/*--- Recipe Images ---*/
+#carrotimg{
+    width: 25%;
+    height: auto; 
+    position:relative;   
+    left:37.5%; 
+}
+#jollofimg{
+    width: 25%;
+    height: auto; 
+    position:relative; 
+    left:37.5%; 
+}
+#shrimpgarlicimg{
+    width: 25%;
+    height: auto; 
+    position:relative; 
+    left:37.5%; 
+}
+
+/*-- home ---*/
+.homec{
+    text-align: center;
+}
+.home{
+    color: goldenrod;
+    font-weight: 900;
+}
+.home:hover{
+    opacity:90%;
+}
