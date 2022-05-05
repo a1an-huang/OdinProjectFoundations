@@ -4,7 +4,7 @@
 Author: **Alan Huang**  
 Started Date: **May 04, 2022**  
 Completed Date: Present  
-Live Link: [Live](http://anohua.com/OdinProjectFoundations/index.html)  
+Live Link: [The Odin Project by Alan Huang](http://anohua.com/OdinProjectFoundations/index.html)  
 Source: [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
 # **Table of Contents**
