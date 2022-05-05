@@ -15,7 +15,7 @@ Source: [The Odin Project Foundations](https://www.theodinproject.com/paths/foun
   - [License](#license)
 
 ## HTML Foundations
- 
+
 Project: **Recipes**
 
 Relfection:
@@ -25,7 +25,6 @@ Relfection:
 Project: **Landing Page**
 
 Relfection:
-
 
 ## JavaScript Basics
 
