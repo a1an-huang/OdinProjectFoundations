@@ -1,0 +1,49 @@
+    /* --- Universal Selector --- */
+*  {
+    color: purple;
+ }
+
+    /* --- Div Type Selector --- */
+div {
+  color: white;
+  background-color: black;
+}
+
+p {
+  color: red;
+}
+
+    /* --- Class Selector --- */
+.alert-text {
+    color: red;
+  }
+
+    /* --- ID Selector --- */
+#title {
+    background-color: red;
+  }
+
+    /* --- Group Selector --- */
+.read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+.read {
+    font-style: italic;
+    /* several unique declarations */
+}
+
+.unread {
+    font-style: normal;
+    /* several unique declarations */
+}
+
+    /* --- Chaining Selectors --- */
+.subsection.header {
+    color: red;
+  }
+.subsection#preview {
+    color: blue;
+}

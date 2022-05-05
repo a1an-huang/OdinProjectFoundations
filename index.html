@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+  <!-- By Alan Huang -->
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -7,52 +8,32 @@
 
     <!--- Title  -->
     <title>My First WebPage</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
 
   <body>
-    <!-- Headings Tags -->
-    <h1>Hello World!</h1>
-    <h2>Hello World!</h2>
-    <h3>Hello World!</h3>
-    <h4>Hello World!</h4>
-    <h5>Hello World!</h5>
-    <h6>Hello World!</h6>
+    <h1 id="heading">
+      <img src="images/odinproj.png" id="mainlogo" alt="Odin Project Logo" />
+    </h1>
 
-    <!-- Paragraph Tag -->
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    </p>
-    <p>
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-      aliquip ex ea
-    </p>
-
-    <!-- Bold and Italic Tags -->
-    <p>This is <strong>bold</strong> and this is <em>italic</em>.</p>
-
-    <!-- Unordered List -->
-    <ul>
-      <li>3</li>
-      <li>1</li>
-      <li>2</li>
-    </ul>
-
-    <!-- Ordered List -->
-    <ol>
-      <li>1</li>
-      <li>2</li>
-      <li>3</li>
-    </ol>
-
-    <!-- anchor with link to projects -->
-    <ul>
-      <li>
-        <a href="odin-links-and-images/index.html"
-          >foundation of links and images</a
-        >
-      </li>
-      <li><a href="odin-recipes/index.html">odin recipes</a></li>
-    </ul>
+    <!-- The Odin Project Foundations -->
+    <div id="foundations">
+      <h2 id="foundationsheader">Foundation Path Projects</h2>
+      <ul id="mainmenu">
+        <li class="mainmenucontent">
+          <a href="odin-recipes/index.html">Odin Recipes</a>
+        </li>
+        <h2 id="foundationsheader">Foundation Path Assignments</h2>
+        <li class="mainmenucontent">
+          <a href="odin-html-basic/index.html">HTML Foundations</a>
+        </li>
+        <li class="mainmenucontent">
+          <a href="odin-links-and-images/index.html"> HTML Links and Images</a>
+        </li>
+        <li class="mainmenucontent">
+          <a href="odin-css-foundations/index.html">CSS Foundations</a>
+        </li>
+      </ul>
+    </div>
   </body>
 </html>
