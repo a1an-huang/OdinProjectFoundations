@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body{
+    font-family: Roboto, sans-serif;
+    margin:0px;
+    display:flex;
+    flex-direction:column;
+}
+ul{
+    list-style: none;
+    font-weight: thin;
+    font-size: 15px;
+    display: flex;
+    margin:0px;
+    gap: 15px;
+}
+.container{
+    display:flex;
+    flex-direction:column;
+}
+.header{
+    background-color: #1F2937;
+    color:#F9FAF8;
+}
+.header-logo{
+    font-weight: 900;
+    font-size: 24px;
+}
+.nav{
+    justify-content: space-between;
+    display:flex;
+
+    margin-top: 18px;
+
+
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+.header-content{
+    display:flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    height: 175px;
+    gap:25px;
+}
+.desc-title{
+    font-size: 36px;
+    font-weight: 900;
+}
+.desc-content{
+    font-weight: thin;
+    font-size: 15px;
+}
+.d-button{
+    background-color: #3882F6;
+    color:white;
+    padding:5px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top:8px;
+}
+.placeholder{
+    display:flex;
+    width:50%;
+    flex-shrink:0;
+    
+    justify-content: center;
+    align-items: center;
+    background-color:grey;
+}
+.content{
+    display:flex;
+    flex-direction:column;
+}
+.content-heading{
+    display:flex;
+    justify-content: center;
+    margin-top:3%;
+    font-size: 23px;
+    font-weight: 900;
+}
+.content-container{
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:4%;
+    margin-bottom:8%;
+    display:flex;
+    justify-content: space-between;
+}
+
+.content-item{
+    color:blue;
+    height: 140px;
+    width: 140px;
+    border-style:solid;
+    border-radius: 15px;
+    border-color: #3882F6;
+}
+.item-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    font-size: 12px;
+    width:125px;
+    margin-top: 3px;
+}
+
+.quote{
+    background-color: #E5E7EB;
+}
+.quote-text{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+    margin-bottom: 8%;
+}
+.quote-content{
+    font-size: 26px;
+    font-weight: 100;
+    font-style: italic;
+}
+.quote-author{
+    font-size: 18px;
+    font-weight: 900;
+
+    display:flex;
+    justify-content: right;
+}
+.signup{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 6%;
+    margin-bottom: 6%;
+
+    color:white;
+}
+.signup-items{
+    background-color: #3882F6;
+    display:flex;
+    justify-content: space-between;
+    border-radius: 10px;;
+    padding: 50px 100px;
+}
+.signup-title{
+    font-size: 24px;
+    font-weight: 900;
+}
+.signup-desc{
+    font-size: 12px;
+    font-weight: 100;
+}
+.s-button{
+    background-color: #3882F6;
+    color:white;
+    padding:5px 20px;
+    border: solid;
+    border-width: 1.5px;
+    border-radius: 5px;
+    margin-top:8px;
+}
+.footer{
+    background-color: #1F2937;
+    color:#F9FAF8;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 25px;
+    font-size: 10px;
+    font-weight: 100;
+}
