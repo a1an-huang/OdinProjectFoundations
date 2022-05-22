@@ -1,0 +1,47 @@
+/*--- By Alan Huang ---*/
+
+body {
+    background-color:#121212;
+    color: white; 
+    font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    margin: .5vw;
+}
+li:hover{
+    opacity: 90%;
+    color:#6abfc3;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/*--- Main Logo ---*/
+#mainlogo{
+    width: 20%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#heading{
+    text-align: center;
+}
+
+/*--- The Odin Project Foundations ---*/
+#foundations{
+    text-align: center;
+    font-size:1.25vw;
+}
+#foundationsheader{
+    color:goldenrod;
+}
+.mainmenucontent:hover{
+    text-decoration: underline;
+}
