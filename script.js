@@ -100,7 +100,16 @@ const bb = 22 * 3;
 const cc = 5 % 4;
 const dd = aa - 17;
 const ee = aa + bb + cc + dd;
-console.log(chalk_1.default.magenta("Part 3: ") + aa + ", " + bb + ", " + cc + ", " + dd + ", " + ee);
+console.log(chalk_1.default.magenta("Part 3: ") +
+    aa +
+    ", " +
+    bb +
+    ", " +
+    cc +
+    ", " +
+    dd +
+    ", " +
+    ee);
 /**
  * 4. Exercise 4:
  *   a.You will be working out of follow.js
@@ -114,3 +123,58 @@ let birthYear = 2002;
 let currAge = currentYear - birthYear;
 let greeting = "Hello, my name is " + fullName + " and I am " + currAge + " years old.";
 console.log(chalk_1.default.magenta("Part 4: ") + greeting);
+/** foundation fundamentals part 3 practice */
+console.log(chalk_1.default.grey("-------------------------------------------"));
+/**
+ * 1. Write a function called add7 that takes one number and returns that number + 7
+ * @param x
+ * @returns
+ */
+let add7 = (x) => x + 7;
+console.log(chalk_1.default.magenta("Part 1: ") + add7(0));
+/**
+ * 2. Write a function called multiply that takes 2 numbers and returns their product.
+ * @param x
+ * @param y
+ * @returns
+ */
+let multiply = (x, y) => x * y;
+console.log(chalk_1.default.magenta("Part 2: ") + multiply(2, 3));
+/**
+ * 3. Write a function called capitalize that takes a string and returns that string with only the first letter capitalized. Make sure that it can take strings that are lowercase, UPPERCASE or BoTh.
+ * @param x
+ * @returns
+ */
+let capitalize = (x) => x.toUpperCase();
+console.log(chalk_1.default.magenta("Part 3: ") + capitalize("hello world!"));
+/**
+ * 4. Write a function called lastLetter that takes a string and returns the very last letter of that string:
+ *    a. lastLetter("abcd") should return "d"
+ * @param x
+ * @returns
+ */
+let lastLetter = (x) => x.slice(x.length - 1);
+console.log(chalk_1.default.magenta("Part 4: ") + lastLetter("abcd"));
+console.log(chalk_1.default.grey("-------------------------------------------"));
+/**
+ * Problem Solving
+ */
+let fizzBuzz = (x) => {
+    let result = "";
+    for (let i = 1; i <= x; i++) {
+        if (i % 3 === 0 && i % 5 === 0) {
+            result += "FizzBuzz ";
+        }
+        else if (i % 3 === 0) {
+            result += "Fizz ";
+        }
+        else if (i % 5 === 0) {
+            result += "Buzz ";
+        }
+        else {
+            result += i + " ";
+        }
+    }
+    return result;
+};
+console.log(chalk_1.default.magenta("Problem Solving: ") + fizzBuzz(15));
